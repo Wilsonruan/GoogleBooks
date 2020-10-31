@@ -4,7 +4,7 @@ const Header = () => {
   return (
 <header>
   <i className="fas fa-book fa-2x"></i>
-  <h1>Book Cards</h1>
+  <h1>Google Books</h1>
 </header>
   )
 }
