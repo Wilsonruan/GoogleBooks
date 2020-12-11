@@ -1,5 +1,5 @@
 {
-  "name": "googlebook",
+  "name": "google-books",
   "version": "1.0.0",
   "description": "Google Books",
   "main": "server.js",
@@ -20,8 +20,10 @@
   },
   "dependencies": {
     "axios": "^0.19.2",
+    "bootstrap": "^4.5.3",
     "express": "^4.16.3",
     "if-env": "^1.0.4",
-    "mongoose": "^5.9.1"
+    "mongoose": "^5.9.1",
+    "react-bootstrap": "^1.4.0"
   }
 }
